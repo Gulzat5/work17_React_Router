@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/work17_React_Router/static/css/main.5a69e138.css",
+    "main.js": "/work17_React_Router/static/js/main.85a15e81.js",
+    "index.html": "/work17_React_Router/index.html",
+    "main.5a69e138.css.map": "/work17_React_Router/static/css/main.5a69e138.css.map",
+    "main.85a15e81.js.map": "/work17_React_Router/static/js/main.85a15e81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a69e138.css",
+    "static/js/main.85a15e81.js"
+  ]
+}
